@@ -1,4 +1,4 @@
-# Ali Saleh 
+# Abdelrahamn Tamim
 ### Front-End Developer  
 
 ---
@@ -19,28 +19,29 @@ Here are some of the tools and technologies I work with:
 ## 🎓 **Education**  
 
 ### **Information Technology Institute (ITI)**  
-- **Program**: Front-End and Cross platform mobile, ITP Program 
+- **Program**: Front-End and Cross platform mobile Devolpment, ITP Program 
 - **Details**:  
 •Comprehensive training in front-end development tools and technologies, including HTML, CSS, JavaScript, React, and UI/UX principles.
 •Hands-on projects focusing on responsive design, interactive user interfaces, and performance optimization.
 
-### **Faculty of Law , Mansoura University**  
-- **Degree**: Bachelor's in Law
+### **Faculty of Arts , Mansoura University**  
+- **Degree**: Bachelor of Arts, Mass Communication /Media studies.
+Faculty of Arts ,Mansoura University.
 - **Location**: Mansoura, Egypt  
 - **Details**:  
-  - Cumulative Grade: Very Good With Honors 
+  - Cumulative Grade: Excellent With Honors 
 ---
 
 ## 📜 **Certificates**  
-- **Mordern JavaScript ES6** — Modern JavaScript: ES6 and beyond | MaharaTech-ITI
-- **JavaScript** — JavaScript | MaharaTech-ITI 
-- **Database Fundamentals - Python Programming Basics** — Database Fundamentals | MaharaTech-ITI  
+- **Mastering Object-Oriented Programming (OOP)** — Mastering Object-Oriented Programming (OOP) | MaharaTech-ITI
+- **Database Fundamentals** — Database Fundamentals| MaharaTech-ITI
+- **Intro to web devolpment** - Complete Intro Into Web Development | EGFWD (ITIDA)
 
 ---
 
 ## 🌐 **Languages**  
-- **Arabic**: Native  
-- **English**: Intermediate  
+- **Arabic**: Native.
+- **English**: Fluent.
 
 ---
 
